@@ -14,4 +14,8 @@ LEARNING: Selenium, RestAssured, Git без паники
 HOBBIES: Gaming, Coding, Guitar-chillin', Drawing
 NICKNAME: Мягорка 🐾
 LINKTREE: https://github.com/margofgl
-<p align="center"> <a href="https://t.me/mrgtc" target="_blank"> <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/> </a> </p> ```
+<p align="center">
+  <a href="https://t.me/mrgtc" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
