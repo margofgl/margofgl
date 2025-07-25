@@ -18,26 +18,18 @@ LEARNING: Selenium, RestAssured, Git без паники
 HOBBIES: Gaming, Coding, Guitar-chillin', Drawing  
 NICKNAME: Мягорка 🐾  
 LINKTREE: https://github.com/margofgl  
-
-
-<img align="left" src="https://media.tenor.com/6O9lJIR9zpYAAAAd/cat-nyan-cat.gif" alt="cute cat" width="230" />
-
-<br />
+<img src="https://media.tenor.com/6O9lJIR9zpYAAAAd/cat-nyan-cat.gif" alt="cute cat" width="230" style="float:left; margin-right:15px;" />
 
 [![Telegram](https://img.shields.io/badge/-@mrgtc-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mrgtc)
 
-<br />
-
 ### 🧰 Техно-когти
 
-![Java](https://img.shields.io/badge/-Java-ffb6c1?style=flat&logo=java&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit-ffe4e1?style=flat&logo=JUnit5&logoColor=black)
-![Selenium](https://img.shields.io/badge/-Selenium-c0e6f7?style=flat&logo=selenium&logoColor=43B02A)
-![Postman](https://img.shields.io/badge/-Postman-ffc0cb?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f5c2e7?style=flat&logo=git&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffb6c1?style=flat&logo=intellij-idea&logoColor=white)
-
-<br />
+![Java](https://img.shields.io/badge/-Java-ffb6c1?style=flat&logo=java&logoColor=white)  
+![JUnit](https://img.shields.io/badge/-JUnit-ffe4e1?style=flat&logo=JUnit5&logoColor=black)  
+![Selenium](https://img.shields.io/badge/-Selenium-c0e6f7?style=flat&logo=selenium&logoColor=43B02A)  
+![Postman](https://img.shields.io/badge/-Postman-ffc0cb?style=flat&logo=postman&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-f5c2e7?style=flat&logo=git&logoColor=white)  
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffb6c1?style=flat&logo=intellij-idea&logoColor=white)  
 
 ### 💖 Моя статистика (котостиль)
 
@@ -45,8 +37,6 @@ LINKTREE: https://github.com/margofgl
   <img src="https://github-readme-stats.vercel.app/api?username=margofgl&show_icons=true&theme=cute" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margofgl&layout=compact&theme=cute" />
 </p>
-
-<br />
 
 ### 🐈 Мой девиз
 
