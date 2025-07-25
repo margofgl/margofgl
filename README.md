@@ -1,5 +1,12 @@
-margofgl@github  
--------------------------------------------------  
+```
+❯ meow
+```
+
+<img src="https://media.tenor.com/6uMqzcbWRhoT6/giphy.gif" width="300" alt="cat hug gif" />
+
+```csharp
+margofgl@github
+-------------------------------------------------
 OS: Winuwu 11 (IDEA edition)  
 SHELL: git bash & soft paws  
 EDITOR: IntelliJ IDEA, Notepad 😼  
