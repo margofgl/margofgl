@@ -4,15 +4,15 @@
 
 <img src="https://media.tenor.com/tlAb_VmINZ0AAAAC/cat-hacker.gif" width="200" align="right" />
 
-## margofgl@github  
-OS: Winuwu 11 (QA Edition)
-SHELL: git bash & когти
-EDITOR: IntelliJ IDEA, Notepad (в шапке-ушанке)
-Uptime: 5+ лет на QA-крыльях ✈️
-Location: Eastern Cat Zone
-Languages: Java, Gherkin, Мягкий сарказм
-Learning: Selenium, REST Assured, Git без дрожи
-Nickname: Мягорка 🐾
+## margofgl@github    
+OS: Winuwu 11 (QA Edition)  
+SHELL: git bash & когти  
+EDITOR: IntelliJ IDEA, Notepad (в шапке-ушанке)  
+Uptime: 5+ лет на QA-крыльях ✈️  
+Location: Eastern Cat Zone  
+Languages: Java, Gherkin, Мягкий сарказм  
+Learning: Selenium, REST Assured, Git без дрожи  
+Nickname: Мягорка 🐾  
 
 ---
 
