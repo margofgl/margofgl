@@ -57,5 +57,5 @@ Nickname: Softpaw 🐾
 > “Every bug is just a hidden kitty. You just gotta call: *purr-purr-assertThat*”
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="250" />
 </p>
