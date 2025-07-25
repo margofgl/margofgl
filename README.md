@@ -2,7 +2,7 @@
 
 > “No bug stands a chance while my paws are testing!” 😼
 
-<img src="https://media.tenor.com/tlAb_VmINZ0AAAAC/cat-hacker.gif" width="200" align="right" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" align="right" />
 
 ## margofgl@github  
 OS: Winuwu 11 (QA Edition)  <br>
@@ -57,5 +57,5 @@ Nickname: Softpaw 🐾
 > “Every bug is just a hidden kitty. You just gotta call: *purr-purr-assertThat*”
 
 <p align="center">
-  <img src="https://media.tenor.com/FoM1LsJKzLEAAAAC/kawaii-cat.gif" width="250" />
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250" />
 </p>
